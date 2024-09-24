@@ -1,7 +1,7 @@
 ## 🔍 Interactive BOM Preview
 The **Interactive BOM (Bill of Materials)** provides a detailed view of the components used in the project. It helps in understanding the placement and specifications of each part.
 
-![iBOM Preview](./ibom_screenshot.png)
+![iBOM Preview](https://github.com/hiibrarahmad/DERMOSCOPE.github.io/blob/main/PCB%20Documents/bom.png)
 
 🔗 [**View Full Interactive BOM**](https://hiibrarahmad.github.io/DERMOSCOPE.github.io/ibom.html)
 
