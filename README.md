@@ -3,7 +3,7 @@ The **Interactive BOM (Bill of Materials)** provides a detailed view of the comp
 
 ![iBOM Preview](./ibom_screenshot.png)
 
-🔗 [**View Full Interactive BOM**](https://github.io/hiibrarahmad/DERMOSCOPE.github.io/ibom.html)
+🔗 [**View Full Interactive BOM**](https://hiibrarahmad.github.io/DERMOSCOPE.github.io/ibom.html)
 
 ---
 
